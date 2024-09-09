@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+# https://github.com/astral-sh/ruff/blob/main/mkdocs.insiders.yml
+
+site_name: Jongerenraad Zutphen info
+
+theme:
+  name: material

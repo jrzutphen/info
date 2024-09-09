@@ -1,0 +1,16 @@
+# Based on https://github.com/github/gitignore
+
+# Tool
+## MkDocs
+site/
+
+## devenv
+.devenv*
+devenv.local.nix
+
+# Secrets
+.env
+
+# Operating system
+## macOS
+.DS_Store

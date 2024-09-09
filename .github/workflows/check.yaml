@@ -1,0 +1,16 @@
+name: Check
+
+on:
+  push:
+
+jobs:
+  check-style:
+    name: Check style
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Check style using dprint
+        uses: dprint/check@v2.2
