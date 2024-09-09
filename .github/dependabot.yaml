@@ -10,3 +10,13 @@ updates:
       - "dependabot[bot]"
     reviewers:
       - "jrzutphen/tech"
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "⬆️ "
+    assignees:
+      - "dependabot[bot]"
+    reviewers:
+      - "jrzutphen/tech"
