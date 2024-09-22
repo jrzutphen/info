@@ -1,50 +1,47 @@
 # Based on https://github.com/gitattributes/gitattributes
 
 # Auto detect text files and perform LF normalization
-*                             text=auto
+*								text=auto	eol=lf
 
 # The above will handle all files NOT found below
 
 # Tool configuration
 ## Git
-.gitattributes                text
-.gitignore                    text
+.gitattributes					text
+.gitignore						text
 
 ## Others
-.editorconfig				  text
-.env.example				  text
-.prettierignore			      text
-poetry.lock					  text
+.all-contributorsrc				text
+.editorconfig					text
+.envrc							text
+devenv.lock						text	linguist-generated	linguist-language=JSON
 
 # Documents
 ## Plain text
-*.md                          text
+*.md							text	linguist-detectable
 
 # Media
 ## Audio
-*.flac                        binary
-*.ogg                         binary
+*.flac							binary
+*.ogg							binary
 
 ## Fonts
-*.eot                         binary
-*.ttf                         binary
-*.woff                        binary
+*.eot							binary
+*.ttf							binary
+*.woff							binary
 
 ## Graphics
-*.png                         binary
-*.jpg                         binary
-*.svg                         text
+*.png							binary
+*.jpg							binary
+*.svg							text
 
 ## Video
-*.mkv                         binary
-*.webm                        binary
+*.mkv							binary
+*.webm							binary
 
 # Data
-*.json                        text
-*.yaml                        text
-*.toml						  text
+*.json							text
+*.nix							text
+*.yaml							text
 
 # Code
-*.ps1                         text eol=crlf
-*.sh                          text eol=lf
-*.py						  text

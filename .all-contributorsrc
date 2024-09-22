@@ -1,0 +1,36 @@
+{
+	"$schema": "https://json.schemastore.org/all-contributors.json",
+	"projectName": "infra",
+	"projectOwner": "jrzutphen",
+	"repoType": "github",
+	"commitConvention": "gitmoji",
+	"files": [
+		"README-nl.md",
+		"README-en.md"
+	],
+	"contributors": [
+		{
+			"login": "mahtaran",
+			"name": "Luka Leer",
+			"avatar_url": "https://avatars.githubusercontent.com/u/22727323?v=4",
+			"profile": "https://mahtaran.amuzil.com",
+			"contributions": [
+				"a11y",
+				"business",
+				"code",
+				"content",
+				"doc",
+				"design",
+				"financial",
+				"ideas",
+				"infra",
+				"maintenance",
+				"projectManagement",
+				"question",
+				"research",
+				"security",
+				"translation"
+			]
+		}
+	]
+}

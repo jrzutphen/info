@@ -45,7 +45,6 @@
       sed -i 's/# nl_NL.UTF-8 UTF-8/nl_NL.UTF-8 UTF-8/' /etc/locale.gen
       locale-gen
       localectl set-locale LANG=en_GB.UTF-8
-
       ```
 
    3. Create the `data` logical volume:
@@ -466,7 +465,6 @@
        Create `docker-compose.yaml`:
 
        ```yaml
-
        ```
 
 6. Create a new network device in Proxmox with the following settings:

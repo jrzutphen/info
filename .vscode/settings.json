@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		".all-contributorsrc": "json",
+		"devenv.lock": "json"
+	},
+	"sonarlint.connectedMode.project": {
+		"connectionId": "Jongerenraad Zutphen",
+		"projectKey": "jrzutphen_infra"
+	}
+}

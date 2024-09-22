@@ -3,9 +3,13 @@
 	"useTabs": true,
 	"indentWidth": 4,
 	"newLineKind": "lf",
-	"json": {},
+	"json": {
+		"associations": [
+			".all-contributorsrc",
+			"devenv.lock"
+		]
+	},
 	"markdown": {},
-	"toml": {},
 	"malva": {
 		"hexColorLength": "long"
 	},
@@ -13,15 +17,10 @@
 		"useTabs": false,
 		"indentWidth": 2
 	},
-	"excludes": [
-		".all-contributorsrc",
-		"devenv.lock"
-	],
 	"plugins": [
 		"https://plugins.dprint.dev/json-0.19.3.wasm",
 		"https://plugins.dprint.dev/markdown-0.17.2.wasm",
-		"https://plugins.dprint.dev/toml-0.6.2.wasm",
-		"https://plugins.dprint.dev/g-plane/malva-v0.8.0.wasm",
+		"https://plugins.dprint.dev/g-plane/malva-v0.10.1.wasm",
 		"https://plugins.dprint.dev/g-plane/pretty_yaml-v0.4.0.wasm"
 	]
 }

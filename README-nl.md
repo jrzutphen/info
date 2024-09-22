@@ -13,25 +13,18 @@
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- dprint-ignore-start -->
+<!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://mahtaran.amuzil.com/"><img src="https://avatars.githubusercontent.com/u/22727323?v=4?s=100" width="100px;" alt="Luka Leer"/><br /><sub><b>Luka Leer</b></sub></a><br /><a href="#business-mahtaran" title="Business development">💼</a> <a href="https://github.com/NLJong/demo/commits?author=mahtaran" title="Code">💻</a> <a href="#content-mahtaran" title="Content">🖋</a> <a href="https://github.com/NLJong/demo/commits?author=mahtaran" title="Documentation">📖</a> <a href="#design-mahtaran" title="Design">🎨</a> <a href="#financial-mahtaran" title="Financial">💵</a> <a href="#ideas-mahtaran" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-mahtaran" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-mahtaran" title="Maintenance">🚧</a> <a href="#projectManagement-mahtaran" title="Project Management">📆</a> <a href="#question-mahtaran" title="Answering Questions">💬</a> <a href="#research-mahtaran" title="Research">🔬</a> <a href="#security-mahtaran" title="Security">🛡️</a> <a href="#translation-mahtaran" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mahtaran.amuzil.com"><img src="https://avatars.githubusercontent.com/u/22727323?v=4?s=100" width="100px;" alt="Luka Leer"/><br /><sub><b>Luka Leer</b></sub></a><br /><a href="#business-mahtaran" title="Business development">💼</a> <a href="https://github.com/jrzutphen/infra/commits?author=mahtaran" title="Code">💻</a> <a href="#content-mahtaran" title="Content">🖋</a> <a href="https://github.com/jrzutphen/infra/commits?author=mahtaran" title="Documentation">📖</a> <a href="#design-mahtaran" title="Design">🎨</a> <a href="#financial-mahtaran" title="Financial">💵</a> <a href="#ideas-mahtaran" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-mahtaran" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-mahtaran" title="Maintenance">🚧</a> <a href="#projectManagement-mahtaran" title="Project Management">📆</a> <a href="#question-mahtaran" title="Answering Questions">💬</a> <a href="#research-mahtaran" title="Research">🔬</a> <a href="#security-mahtaran" title="Security">🛡️</a> <a href="#translation-mahtaran" title="Translation">🌍</a> <a href="#a11y-mahtaran" title="Accessibility">️️️️♿️</a> <a href="https://github.com/jrzutphen/infra/issues?q=author%3Amahtaran" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
 
 <!-- markdownlint-restore -->
-<!-- dprint-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- dprint-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- dprint-ignore-end -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 

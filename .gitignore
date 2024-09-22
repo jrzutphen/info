@@ -5,11 +5,14 @@
 site/
 
 ## devenv
-.devenv*
+.devenv/
+.devenv.flake.nix
 devenv.local.nix
 
+## direnv
+.direnv/
+
 # Secrets
-.env
 
 # Operating system
 ## macOS
