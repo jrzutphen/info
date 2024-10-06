@@ -2,4 +2,4 @@
 
 inputs:
   nixpkgs:
-    url: github:nixos/nixpkgs/nixos-unstable
+    url: github:mahtaran/nixpkgs/master
